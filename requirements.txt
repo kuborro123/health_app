@@ -1,7 +1,2 @@
-fastapi
-uvicorn
-psycopg2-binary
-sqlalchemy
-requests
-beautifulsoup4
-pandas
+Flask==2.3.3
+gunicorn==21.2.0
